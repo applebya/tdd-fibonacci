@@ -8,7 +8,7 @@
   },
   "devDependencies": {
     "babel-register": "^6.24.0",
-    "tape": "^4.6.3",
+    "tape": "^4.6.3"
   },
   "scripts": {
     "test": "tape -r babel-register devTest.js"
