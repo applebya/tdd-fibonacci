@@ -14,6 +14,6 @@ The test (paraphrased):
 
 - **1.** Write a stack (+ test)
 
-- **2** Write a function that returns a fibonacci sequence _using a **loop** method_ out of a specified quantity (+ test)
+- **2.** Write a function that returns a fibonacci sequence _using a **loop** method_ out of a specified quantity (+ test)
 
-- **3** Write a function that returns a fibonacci sequence _using a **recursive** method_ out of a specified quantity (+ test)
+- **3.** Write a function that returns a fibonacci sequence _using a **recursive** method_ out of a specified quantity (+ test)
